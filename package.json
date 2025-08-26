@@ -1,0 +1,9 @@
+{
+  "name": "scraper-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
